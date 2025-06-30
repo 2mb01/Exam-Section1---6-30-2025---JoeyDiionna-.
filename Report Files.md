@@ -12,4 +12,7 @@ Running out of memory is a easy problem to fix, but can happen for a lot of diff
 These 3 websites give clear instructions on how to free up or create new memory. The third website shows us how to create virtual memory so we can increase the memory while not spending any money. although its 3 different websites all the instructions are pretty similar on how to free up memory, this is not the most complex task just takes a little bit of time on a computer to know what to do right away.
 
 
-### https://www.makeuseof.com/windows-computer-low-memory/
+### https://www.ccleaner.com/?srsltid=AfmBOora3lbap-3kpEOxCYSoIKszaXuRGUUWnWd805N4wt0xPEiDjd6I
+### https://www.malwarebytes.com/mwb-download
+
+When i have problems with windows i always use CCleaner. it gets rid of any excess files, programs and fixes the windows start up all while being free. CCleaner is great for a free windows cleaner all times where my computer was slow and running out of memory i used this application and it worked. It deletes all duplicate files, all malware, makes sure computer is up to date. Another good one is malware bytes this one i dont have much personal experience with but ive read a lot about it and it has great reviews, it protects any device its downloaded on, can block ads, viruses and makes sure everything is up to date.
