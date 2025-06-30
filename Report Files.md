@@ -21,7 +21,7 @@ These 3 websites give clear instructions on how to free up or create new memory.
 
 When i have problems with windows i always use CCleaner. it gets rid of any excess files, programs and fixes the windows start up all while being free. CCleaner is great for a free windows cleaner all times where my computer was slow and running out of memory i used this application and it worked. It deletes all duplicate files, all malware, makes sure computer is up to date. Another good one is malware bytes this one i dont have much personal experience with but ive read a lot about it and it has great reviews, it protects any device its downloaded on, can block ads, viruses and makes sure everything is up to date.
 
-## Question 2 Part A
+## Question 2 
 
 ### https://www.customguide.com/windows-10/find-files
 ### https://support.microsoft.com/en-us/windows/find-your-files-in-windows-5c7c8cfe-c289-fae4-f5f8-6b3fdba418d2 
