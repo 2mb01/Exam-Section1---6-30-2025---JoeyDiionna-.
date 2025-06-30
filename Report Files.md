@@ -21,9 +21,12 @@ These 3 websites give clear instructions on how to free up or create new memory.
 
 When i have problems with windows i always use CCleaner. it gets rid of any excess files, programs and fixes the windows start up all while being free. CCleaner is great for a free windows cleaner all times where my computer was slow and running out of memory i used this application and it worked. It deletes all duplicate files, all malware, makes sure computer is up to date. Another good one is malware bytes this one i dont have much personal experience with but ive read a lot about it and it has great reviews, it protects any device its downloaded on, can block ads, viruses and makes sure everything is up to date.
 
-
+## Question 2 Part A
 
 ### https://www.customguide.com/windows-10/find-files
 ### https://support.microsoft.com/en-us/windows/find-your-files-in-windows-5c7c8cfe-c289-fae4-f5f8-6b3fdba418d2 
-###https://www.badgermapping.com/knowledgebase/find-file-saved-computer/
+### https://www.badgermapping.com/knowledgebase/find-file-saved-computer/
+
+Each one of these sites gives clear instructions on how to find a lost file that you previously worked on. each site simplifies what to do and could be very usefull to the person in need. they show us how to navigate file explorer, uses the search function, learning how to troubleshoot search problems and understanding file locations. theres different ways to figure out where the file went you can use file explorer and search up keywords that could relate to the document. Another way would be using the windows search bar and looking at your recent files
+
 
